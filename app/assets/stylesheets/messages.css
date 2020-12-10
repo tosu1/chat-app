@@ -8,10 +8,9 @@
   height: 100vh;
 }
 
-.main_bar{
+.chat{
   widows: calc(100vw - 300px);
   background-color: #ffffff;
-  padding: ;
 }
 
 .side-bar-header{
